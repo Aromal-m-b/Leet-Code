@@ -7,13 +7,12 @@ After every explanation, a direct Markdown link to the corresponding solution fi
 
 ## 📌 Problem Solutions
 
-### **Two Sum – Explanation & Code**
-This solution covers both the brute-force method and the optimized hash-map approach. The explanation describes how using a dictionary enables constant-time lookups, significantly improving time complexity compared to nested loops.  
-👉 **View file:** [`two_sum.py`](./two_sum.py)
+### **[Two Sum](./two_sum.py) – Explanation & Code**
+This solution covers both the brute-force method and the optimized hash-map approach. The explanation describes how using a dictionary enables constant-time lookups, significantly improving time complexity compared to nested loops. 
 
 ---
 
-## **2211-Count Collisions on a Road**
+### **[2211-Count Collisions on a Road](./2211-Count Collisions on a Road.py)**
 We have an infinitely long road containing *i* cars in a line.  
 Each car is represented by one of the following states:
 
@@ -29,18 +28,18 @@ Collision rules:
 
 ---
 
- ### **Aim**
+ #### **Aim**
 Determine the **total number of collisions** that will occur.
 
 ---
 
-### **Given**
+#### **Given**
 A string/list representing the state of each car in order.
 
 
 ---
 
-### **Solution Logic**
+#### **Solution Logic**
 
 1. **Identify collision-possible (danger) zones**  
    - A car on the **leftmost end moving left (L)** will never collide.  
@@ -68,5 +67,5 @@ A string/list representing the state of each car in order.
 
 ---
 
-### **Result**
+#### **Result**
 By evaluating only the **danger zone** and counting the moving cars that will inevitably collide, we compute the total number of collisions while correctly applying the scoring rules for different collision types.
