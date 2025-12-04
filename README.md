@@ -12,7 +12,7 @@ This solution covers both the brute-force method and the optimized hash-map appr
 
 ---
 
-### **[2211-Count Collisions on a Road](./2211-Count Collisions on a Road.py)**
+### **[2211-Count Collisions on a Road](./2211-collision.py)**
 We have an infinitely long road containing *i* cars in a line.  
 Each car is represented by one of the following states:
 
