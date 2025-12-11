@@ -69,3 +69,23 @@ A string/list representing the state of each car in order.
 
 #### **Result**
 By evaluating only the **danger zone** and counting the moving cars that will inevitably collide, we compute the total number of collisions while correctly applying the scoring rules for different collision types.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
+## Math
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
+## Geometry
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
+<!---LeetCode Topics End-->
