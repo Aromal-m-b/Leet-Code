@@ -75,6 +75,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Array
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Aromal-m-b/Leet-Code/tree/master/3531-count-covered-buildings) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
@@ -85,6 +86,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Math
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Geometry
 |  |
@@ -93,5 +95,10 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Sorting
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Aromal-m-b/Leet-Code/tree/master/3531-count-covered-buildings) |
+## Simulation
+|  |
+| ------- |
+| [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
 <!---LeetCode Topics End-->
