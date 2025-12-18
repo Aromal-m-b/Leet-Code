@@ -82,6 +82,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aromal-m-b/Leet-Code/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/Aromal-m-b/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Aromal-m-b/Leet-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,4 +130,12 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Sliding Window
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Aromal-m-b/Leet-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Prefix Sum
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Aromal-m-b/Leet-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
