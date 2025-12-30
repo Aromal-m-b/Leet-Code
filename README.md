@@ -75,6 +75,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Array
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aromal-m-b/Leet-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
@@ -88,12 +89,14 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [3531-count-covered-buildings](https://github.com/Aromal-m-b/Leet-Code/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Aromal-m-b/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Math
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aromal-m-b/Leet-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aromal-m-b/Leet-Code/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
@@ -150,4 +153,8 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
