@@ -155,6 +155,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/Aromal-m-b/Leet-Code/tree/master/0868-binary-gap) |
 ## Matrix
 |  |
 | ------- |
