@@ -75,6 +75,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aromal-m-b/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aromal-m-b/Leet-Code/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
@@ -97,6 +98,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aromal-m-b/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aromal-m-b/Leet-Code/tree/master/0066-plus-one) |
 | [0788-rotated-digits](https://github.com/Aromal-m-b/Leet-Code/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
@@ -162,6 +164,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aromal-m-b/Leet-Code/tree/master/0048-rotate-image) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 ## String Matching
 |  |
