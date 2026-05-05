@@ -170,4 +170,12 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Aromal-m-b/Leet-Code/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Aromal-m-b/Leet-Code/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
