@@ -5,9 +5,9 @@ class Solution:
         total = 0
         energy = 0
 
-        for actual,mini in tasks:
-            if energy < mini:
-                total += mini-energy
-                energy = mini
-            energy -= actual
+        for i in range(0,len(tasks)):
+            if energy < tasks[i][1]:
+                total += tasks[i][1]-energy
+                energy = tasks[i][1]
+            energy -= tasks[i][0]
         return total
