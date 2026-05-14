@@ -77,6 +77,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [0048-rotate-image](https://github.com/Aromal-m-b/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aromal-m-b/Leet-Code/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Aromal-m-b/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aromal-m-b/Leet-Code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -146,6 +147,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aromal-m-b/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Aromal-m-b/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0788-rotated-digits](https://github.com/Aromal-m-b/Leet-Code/tree/master/0788-rotated-digits) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aromal-m-b/Leet-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aromal-m-b/Leet-Code/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
