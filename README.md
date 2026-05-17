@@ -84,6 +84,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
+| [1306-jump-game-iii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1306-jump-game-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aromal-m-b/Leet-Code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aromal-m-b/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/Aromal-m-b/Leet-Code/tree/master/1861-rotating-the-box) |
@@ -167,6 +168,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1306-jump-game-iii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
 |  |
@@ -219,4 +221,8 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
