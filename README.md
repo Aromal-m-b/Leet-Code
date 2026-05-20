@@ -93,6 +93,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aromal-m-b/Leet-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aromal-m-b/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aromal-m-b/Leet-Code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Aromal-m-b/Leet-Code/tree/master/2784-check-if-array-is-good) |
 | [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
@@ -110,6 +111,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [1345-jump-game-iv](https://github.com/Aromal-m-b/Leet-Code/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aromal-m-b/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aromal-m-b/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Aromal-m-b/Leet-Code/tree/master/2784-check-if-array-is-good) |
 | [3531-count-covered-buildings](https://github.com/Aromal-m-b/Leet-Code/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Aromal-m-b/Leet-Code/tree/master/3606-coupon-code-validator) |
@@ -192,6 +194,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0868-binary-gap](https://github.com/Aromal-m-b/Leet-Code/tree/master/0868-binary-gap) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aromal-m-b/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
