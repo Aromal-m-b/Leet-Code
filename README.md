@@ -96,6 +96,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aromal-m-b/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aromal-m-b/Leet-Code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Aromal-m-b/Leet-Code/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Aromal-m-b/Leet-Code/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -113,6 +114,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aromal-m-b/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Aromal-m-b/Leet-Code/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3531-count-covered-buildings](https://github.com/Aromal-m-b/Leet-Code/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Aromal-m-b/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -153,6 +155,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0796-rotate-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aromal-m-b/Leet-Code/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3606-coupon-code-validator](https://github.com/Aromal-m-b/Leet-Code/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -235,4 +238,8 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [1306-jump-game-iii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Aromal-m-b/Leet-Code/tree/master/1345-jump-game-iv) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
