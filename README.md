@@ -80,6 +80,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aromal-m-b/Leet-Code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aromal-m-b/Leet-Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aromal-m-b/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aromal-m-b/Leet-Code/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Aromal-m-b/Leet-Code/tree/master/0118-pascals-triangle) |
@@ -244,6 +245,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aromal-m-b/Leet-Code/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
