@@ -75,6 +75,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aromal-m-b/Leet-Code/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Aromal-m-b/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aromal-m-b/Leet-Code/tree/master/0066-plus-one) |
@@ -109,6 +110,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aromal-m-b/Leet-Code/tree/master/0001-two-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [1345-jump-game-iv](https://github.com/Aromal-m-b/Leet-Code/tree/master/1345-jump-game-iv) |
