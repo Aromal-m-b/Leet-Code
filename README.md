@@ -111,6 +111,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aromal-m-b/Leet-Code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Aromal-m-b/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [1345-jump-game-iv](https://github.com/Aromal-m-b/Leet-Code/tree/master/1345-jump-game-iv) |
@@ -125,6 +126,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aromal-m-b/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aromal-m-b/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aromal-m-b/Leet-Code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aromal-m-b/Leet-Code/tree/master/0070-climbing-stairs) |
@@ -155,6 +157,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aromal-m-b/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
