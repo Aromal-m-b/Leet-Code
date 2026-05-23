@@ -76,6 +76,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aromal-m-b/Leet-Code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Aromal-m-b/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aromal-m-b/Leet-Code/tree/master/0066-plus-one) |
@@ -158,6 +159,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aromal-m-b/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
@@ -249,5 +251,6 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
