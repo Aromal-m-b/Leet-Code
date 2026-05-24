@@ -189,6 +189,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -211,6 +212,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0868-binary-gap](https://github.com/Aromal-m-b/Leet-Code/tree/master/0868-binary-gap) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aromal-m-b/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -253,6 +255,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0069-sqrtx](https://github.com/Aromal-m-b/Leet-Code/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
 ## Breadth-First Search
 |  |
@@ -264,4 +267,8 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
