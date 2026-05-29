@@ -7,4 +7,6 @@ class Solution:
             for c in temp:
                 res = res + int(c)
             val = min(res,val)
+            if val == 1:
+                return val
         return val
