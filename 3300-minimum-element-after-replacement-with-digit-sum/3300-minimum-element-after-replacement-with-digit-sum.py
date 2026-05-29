@@ -1,6 +1,7 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
         val = 10 ** 4
+        nums = list(set(nums))
         for i in range (len(nums)):
             res = 0
             for c in str(nums[i]):
