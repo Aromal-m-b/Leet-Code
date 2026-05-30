@@ -108,6 +108,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2784-check-if-array-is-good](https://github.com/Aromal-m-b/Leet-Code/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Aromal-m-b/Leet-Code/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Aromal-m-b/Leet-Code/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aromal-m-b/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Aromal-m-b/Leet-Code/tree/master/3531-count-covered-buildings) |
@@ -277,6 +278,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0222-count-complete-tree-nodes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/Aromal-m-b/Leet-Code/tree/master/3161-block-placement-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -296,4 +298,12 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aromal-m-b/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Aromal-m-b/Leet-Code/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Aromal-m-b/Leet-Code/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
