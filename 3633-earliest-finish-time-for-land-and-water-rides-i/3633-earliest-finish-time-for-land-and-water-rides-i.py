@@ -1,56 +1,17 @@
 class Solution:
-    def earliestFinishTime(
-        self,
-        landStartTime: List[int],
-        landDuration: List[int],
-        waterStartTime: List[int],
-        waterDuration: List[int],
-    ) -> int:
-        def calculate_finish_time(
-            first_stage_start: List[int],
-            first_stage_duration: List[int],
-            second_stage_start: List[int],
-            second_stage_duration: List[int]
-        ) -> int:
-            """
-            Calculate the minimum finish time when completing first stage then second stage.
+    def earliestFinishTime(self, landStartTime: List[int], landDuration: List[int], waterStartTime: List[int], waterDuration: List[int]) -> int:
+        n = len(landStartTime)
+        m = len(waterStartTime)
 
-            Args:
-                first_stage_start: Start times for first stage activities
-                first_stage_duration: Durations for first stage activities
-                second_stage_start: Start times for second stage activities
-                second_stage_duration: Durations for second stage activities
+        minWaterEnd = min(waterStartTime[i] + waterDuration[i] for i in range(m))
+        minLandEnd = min(landStartTime[i] + landDuration[i] for i in range(n))
 
-            Returns:
-                Minimum finish time for completing both stages
-            """
-            # Find the earliest possible completion time of the first stage
-            # by choosing the activity with minimum (start_time + duration)
-            min_first_stage_end = min(
-                start + duration
-                for start, duration in zip(first_stage_start, first_stage_duration)
-            )
+        min_land_time = float("inf")
+        for j in range(m):
+            min_land_time = min(min_land_time, max(waterStartTime[j], minLandEnd) + waterDuration[j])
+                
+        min_water_time = float("inf")
+        for j in range(n):
+            min_water_time = min(min_water_time, max(landStartTime[j], minWaterEnd) + landDuration[j])
 
-            # For the second stage, we can start each activity at the maximum of:
-            # - its own start time
-            # - the completion time of the first stage
-            # Then find the minimum total completion time
-            min_total_time = min(
-                max(start, min_first_stage_end) + duration
-                for start, duration in zip(second_stage_start, second_stage_duration)
-            )
-
-            return min_total_time
-
-        # Try both orderings: land first then water, or water first then land
-        land_then_water = calculate_finish_time(
-            landStartTime, landDuration,
-            waterStartTime, waterDuration
-        )
-        water_then_land = calculate_finish_time(
-            waterStartTime, waterDuration,
-            landStartTime, landDuration
-        )
-
-        # Return the minimum of both orderings
-        return min(land_then_water, water_then_land)
+        return min(min_land_time, min_water_time)
