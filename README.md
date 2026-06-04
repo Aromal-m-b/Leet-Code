@@ -157,6 +157,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aromal-m-b/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
 | ------- |
@@ -211,6 +212,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aromal-m-b/Leet-Code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aromal-m-b/Leet-Code/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
 |  |
 | ------- |
@@ -322,4 +324,8 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Aromal-m-b/Leet-Code/tree/master/3161-block-placement-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
