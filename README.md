@@ -103,6 +103,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aromal-m-b/Leet-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Aromal-m-b/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aromal-m-b/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aromal-m-b/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aromal-m-b/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
@@ -133,6 +134,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [1345-jump-game-iv](https://github.com/Aromal-m-b/Leet-Code/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aromal-m-b/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aromal-m-b/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aromal-m-b/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Aromal-m-b/Leet-Code/tree/master/2784-check-if-array-is-good) |
@@ -220,6 +222,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aromal-m-b/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -316,6 +319,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aromal-m-b/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Union-Find
 |  |
 | ------- |
