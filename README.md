@@ -103,6 +103,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aromal-m-b/Leet-Code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Aromal-m-b/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aromal-m-b/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Aromal-m-b/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aromal-m-b/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
@@ -184,6 +185,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/1914-cyclically-rotating-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Aromal-m-b/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
 ## String
@@ -275,6 +277,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0027-remove-element](https://github.com/Aromal-m-b/Leet-Code/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Aromal-m-b/Leet-Code/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/Aromal-m-b/Leet-Code/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Aromal-m-b/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
