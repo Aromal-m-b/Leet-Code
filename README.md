@@ -124,6 +124,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Aromal-m-b/Leet-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,6 +290,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aromal-m-b/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
 ## Memoization
 |  |
 | ------- |
