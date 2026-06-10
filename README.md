@@ -125,6 +125,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Aromal-m-b/Leet-Code/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -291,6 +292,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -337,8 +339,13 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Aromal-m-b/Leet-Code/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
