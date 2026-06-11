@@ -1,34 +1,24 @@
-import collections
-
 class Solution:
     def assignEdgeWeights(self, edges: List[List[int]]) -> int:
+
         n = len(edges) + 1
-        MOD = 10**9 + 7
-
-        adj = collections.defaultdict(list)
+        g = [[] for _ in range(n + 1)] # edges for each node
         for u, v in edges:
-            adj[u].append(v)
-            adj[v].append(u)
+            if u < v:
+                g[u].append(v) # bidirected ? no, only small -> large
+            else:
+                g[v].append(u) # bidirected
 
-        queue = collections.deque([(1, 0)])  # (node, depth)
-        visited = {1}
-        max_depth = 0
+        d = [-1] * (n + 1) # depths
+        d[1] = 0  # depth at 1 starting
+        q = deque([1]) 
+        while q:
+            u = q.popleft()
+            for v in g[u]:
+                if d[v] < 0: # haven't checked depth
+                    d[v] = d[u] + 1 # use partenth depth + 1
+                    q.append(v) # queue to check childs later
 
-        while queue:
-            node, depth = queue.popleft()
-            max_depth = depth
-
-            for neighbor in adj[node]:
-                if neighbor not in visited:
-                    visited.add(neighbor)
-                    queue.append((neighbor, depth + 1))
-        
-        path_length = max_depth
-
-        if path_length == 0:
-            return 0
-        
-        # The number of ways to choose an odd number of edges from path_length
-        # to assign a weight of 1 (which makes the total cost odd)
-        # is 2^(path_length - 1).
-        return pow(2, path_length - 1, MOD)
+        m = max(d[1:]) # get the max depth for node 1 
+        MOD = 10**9 + 7 # constant
+        return pow(2, m - 1, MOD) # power
