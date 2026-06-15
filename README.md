@@ -278,6 +278,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Aromal-m-b/Leet-Code/tree/master/0061-rotate-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aromal-m-b/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,6 +286,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0027-remove-element](https://github.com/Aromal-m-b/Leet-Code/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Aromal-m-b/Leet-Code/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/Aromal-m-b/Leet-Code/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aromal-m-b/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aromal-m-b/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
