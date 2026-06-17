@@ -193,6 +193,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2553-separate-the-digits-in-an-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3433-count-mentions-per-user](https://github.com/Aromal-m-b/Leet-Code/tree/master/3433-count-mentions-per-user) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Aromal-m-b/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
@@ -210,6 +211,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3606-coupon-code-validator](https://github.com/Aromal-m-b/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Aromal-m-b/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
