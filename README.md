@@ -136,6 +136,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
+| [1189-maximum-number-of-balloons](https://github.com/Aromal-m-b/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Aromal-m-b/Leet-Code/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aromal-m-b/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aromal-m-b/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -203,6 +204,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
+| [1189-maximum-number-of-balloons](https://github.com/Aromal-m-b/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1871-jump-game-vii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aromal-m-b/Leet-Code/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -360,4 +362,8 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Aromal-m-b/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
