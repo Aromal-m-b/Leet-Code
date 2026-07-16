@@ -127,6 +127,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3689-maximum-total-subarray-value-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/Aromal-m-b/Leet-Code/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aromal-m-b/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aromal-m-b/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aromal-m-b/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -187,6 +189,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3606-coupon-code-validator](https://github.com/Aromal-m-b/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aromal-m-b/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +200,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3612-process-string-with-special-operations-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Aromal-m-b/Leet-Code/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aromal-m-b/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -298,6 +302,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2540-minimum-common-value](https://github.com/Aromal-m-b/Leet-Code/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aromal-m-b/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -371,4 +376,5 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aromal-m-b/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aromal-m-b/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
