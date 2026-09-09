@@ -176,6 +176,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aromal-m-b/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
 ## Geometry
 |  |
 | ------- |
