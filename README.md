@@ -250,12 +250,14 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aromal-m-b/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aromal-m-b/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1306-jump-game-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aromal-m-b/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Sliding Window
@@ -359,6 +361,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aromal-m-b/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aromal-m-b/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
 | ------- |
