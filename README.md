@@ -216,6 +216,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Aromal-m-b/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Aromal-m-b/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1871-jump-game-vii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aromal-m-b/Leet-Code/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -398,4 +399,12 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aromal-m-b/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aromal-m-b/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aromal-m-b/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
