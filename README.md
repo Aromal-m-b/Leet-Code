@@ -218,6 +218,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Aromal-m-b/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Aromal-m-b/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1871-jump-game-vii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1871-jump-game-vii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Aromal-m-b/Leet-Code/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -319,6 +320,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Greedy
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aromal-m-b/Leet-Code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/Aromal-m-b/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aromal-m-b/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -403,8 +405,10 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Aromal-m-b/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Aromal-m-b/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
