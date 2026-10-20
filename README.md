@@ -90,6 +90,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Aromal-m-b/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [1260-shift-2d-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/1260-shift-2d-grid) |
@@ -270,6 +271,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aromal-m-b/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aromal-m-b/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Aromal-m-b/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
@@ -411,4 +413,8 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Aromal-m-b/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aromal-m-b/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
