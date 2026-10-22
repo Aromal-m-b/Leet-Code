@@ -92,6 +92,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Aromal-m-b/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [1260-shift-2d-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/1260-shift-2d-grid) |
@@ -142,6 +143,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0128-longest-consecutive-sequence](https://github.com/Aromal-m-b/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Aromal-m-b/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [1189-maximum-number-of-balloons](https://github.com/Aromal-m-b/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -191,6 +193,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0049-group-anagrams](https://github.com/Aromal-m-b/Leet-Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aromal-m-b/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [1340-jump-game-v](https://github.com/Aromal-m-b/Leet-Code/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aromal-m-b/Leet-Code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/Aromal-m-b/Leet-Code/tree/master/2126-destroying-asteroids) |
@@ -395,10 +398,12 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Aromal-m-b/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 ## Number Theory
 |  |
@@ -424,4 +429,16 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aromal-m-b/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
