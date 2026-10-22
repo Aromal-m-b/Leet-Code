@@ -82,6 +82,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0033-search-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aromal-m-b/Leet-Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aromal-m-b/Leet-Code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Aromal-m-b/Leet-Code/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Aromal-m-b/Leet-Code/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Aromal-m-b/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/0119-pascals-triangle-ii) |
@@ -137,6 +138,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [0001-two-sum](https://github.com/Aromal-m-b/Leet-Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aromal-m-b/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Aromal-m-b/Leet-Code/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aromal-m-b/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Aromal-m-b/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
@@ -186,6 +188,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aromal-m-b/Leet-Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aromal-m-b/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
 | [1340-jump-game-v](https://github.com/Aromal-m-b/Leet-Code/tree/master/1340-jump-game-v) |
@@ -216,6 +219,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aromal-m-b/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Aromal-m-b/Leet-Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aromal-m-b/Leet-Code/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/Aromal-m-b/Leet-Code/tree/master/0796-rotate-string) |
