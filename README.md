@@ -91,6 +91,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Aromal-m-b/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Aromal-m-b/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -325,6 +326,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aromal-m-b/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aromal-m-b/Leet-Code/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Aromal-m-b/Leet-Code/tree/master/0061-rotate-list) |
+| [0283-move-zeroes](https://github.com/Aromal-m-b/Leet-Code/tree/master/0283-move-zeroes) |
 | [1861-rotating-the-box](https://github.com/Aromal-m-b/Leet-Code/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aromal-m-b/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aromal-m-b/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
