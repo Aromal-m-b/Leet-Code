@@ -2,8 +2,6 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if not nums:
             return 0
-        if len(nums) == 100000:
-            return 2 if nums[0] == -100000000 else 100000
         nums = set(nums)
         r = t = 0
         for i in nums:
