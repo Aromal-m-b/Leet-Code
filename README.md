@@ -93,6 +93,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Aromal-m-b/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Aromal-m-b/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aromal-m-b/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [1260-shift-2d-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/1260-shift-2d-grid) |
@@ -144,6 +145,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [0242-valid-anagram](https://github.com/Aromal-m-b/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aromal-m-b/Leet-Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aromal-m-b/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Aromal-m-b/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/Aromal-m-b/Leet-Code/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/0840-magic-squares-in-grid) |
 | [1189-maximum-number-of-balloons](https://github.com/Aromal-m-b/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -282,6 +284,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aromal-m-b/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Aromal-m-b/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aromal-m-b/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Aromal-m-b/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
