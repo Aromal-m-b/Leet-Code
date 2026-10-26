@@ -130,6 +130,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Aromal-m-b/Leet-Code/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/Aromal-m-b/Leet-Code/tree/master/3606-coupon-code-validator) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aromal-m-b/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aromal-m-b/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -278,6 +279,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aromal-m-b/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Aromal-m-b/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Aromal-m-b/Leet-Code/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aromal-m-b/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -313,6 +315,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | [1260-shift-2d-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Aromal-m-b/Leet-Code/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Aromal-m-b/Leet-Code/tree/master/1914-cyclically-rotating-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aromal-m-b/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
@@ -376,6 +379,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 | ------- |
 | [1306-jump-game-iii](https://github.com/Aromal-m-b/Leet-Code/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Aromal-m-b/Leet-Code/tree/master/1345-jump-game-iv) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aromal-m-b/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -392,6 +396,7 @@ By evaluating only the **danger zone** and counting the moving cars that will in
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aromal-m-b/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aromal-m-b/Leet-Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
